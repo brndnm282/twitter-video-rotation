@@ -1,6 +1,6 @@
 # Fork of [V LIVE Video Rotation](https://greasyfork.org/en/scripts/379342-v-live-video-rotation) to use on Twitter/X.
 
-### Adds buttons and keyboard shortcuts to rotate and flip the video player on Weverse.
+### Adds buttons and keyboard shortcuts to rotate and flip the video player on Twitter/X.
 
 | Shortcuts for rotating the player: | Key |
 | :--- | :--- |
