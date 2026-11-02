@@ -13,4 +13,4 @@
 
 ## Installation
 
-https://raw.githubusercontent.com/brndnm282/twitter-video-rotation/main/twitter%20Video%20Rotation.user.js
+https://raw.githubusercontent.com/brndnm282/twitter-video-rotation/main/Twitter%20Video%20Rotation.user.js
